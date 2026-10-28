@@ -53,8 +53,18 @@
         <<header>
             <h1>Nuevo proyecto, trabajo con github!!</h1>
         </header>
-        <?php
+        <<main>
+             <?php
         // put your code here
         ?>
+        </main>
+         <footer>
+            <p><a href="../index.html">Home</a></p>
+
+            <div class="footer-text">
+                <p>2026-27 IES Los Sauces. &copy; Todos los derechos reservados.<a href="../index.html">Yolanda Rodríguez Moreno</a></p>
+                <time datetime="2026-09-30">Última actualización: 27 de Octubre de 2026</time>
+            </div>
+        </footer>
     </body>
 </html>

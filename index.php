@@ -51,7 +51,9 @@
     </head>
     <body>
         <<header>
-            <h1>Nuevo proyecto, trabajo con github!!</h1>
+            <h1>Nuevo proyecto, trabajo con github!!
+            rama master</h1>
+            
         </header>
         <<main>
              <?php

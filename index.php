@@ -52,9 +52,10 @@
     <body>
         <<header>
             <h1>Nuevo proyecto, trabajo con github!!
-                rama developer!!!
+                dev
+                
             </h1>
-            rama master</h1>
+            
             
         </header>
         <<main>
